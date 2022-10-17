@@ -5,9 +5,8 @@
 This application helps user to create and save notes. 
 I wanted to create an application which helps users to check the notes at any time. This front end app saves the notes so that use can open it later and even on different browser without losing their notes.
 
-## Table of Contents (Optional)
+## Table of Contents 
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Demo](#Demo)
@@ -20,7 +19,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-There are not need to install anything. The webpage is going to be web hosted.
+There is no need to install anything. The application is going to be web hosted.
 
 ## Demo
 
