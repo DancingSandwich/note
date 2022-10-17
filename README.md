@@ -2,9 +2,8 @@
 
 ## Description
 
-This application helps user to lookup weather forecase for any city of their choice.
-
-I wanted to create an application which helps users to check the weather of their city. 
+This application helps user to create and save notes. 
+I wanted to create an application which helps users to check the notes at any time. This front end app saves the notes so that use can open it later and even on different browser without losing their notes.
 
 ## Table of Contents (Optional)
 
@@ -25,7 +24,7 @@ There are not need to install anything. The webpage is going to be web hosted.
 
 ## Demo
 
-[Click here to view the project](https://dancingsandwich.github.io/weather_dashboard/)
+[Click here to view the project](https://lit-crag-10717.herokuapp.com/notes)
 
 ## Usage
 
