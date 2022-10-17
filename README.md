@@ -64,16 +64,11 @@ SOFTWARE.
 
 ## Features
 
-- Dashboard allows user to search city of their choice
-- Keeps search history
-- Shows weather icon such as rain, sunshine etc
-- Today's weather
-- Five day forecast 
-- Weather shows: 
-    - Temperature
-    - Wind Speed
-    - Humidity
-    - UV Index
+- Front-end web application
+- User can create and save notes
+- Ability to delete unwanted notes
+- Notes are saved and user is able to view them even after page refresh or viewing it on different browser
+
 
 ## How to Contribute
 
